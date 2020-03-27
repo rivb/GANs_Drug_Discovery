@@ -1,11 +1,16 @@
 # uPharma
-Este es un SaaS que se encarga de ayudar a farmaceuticos a encontrar nuevos medicamentos para ciertas enfermedades en especifico. 
+
+Este es un SaaS que se encarga de filtrar los mejores farmacos que podrian seleccionar los farmacologos para comenzar la investigacion de la inabilitacion de cierta proteina casuante de cierta enfermedad. 
 
 
-Esta sera una app web en donde los farmaceuticos podran ingresar las caracteristicas de la enfermedad y encontrar posibles medicamentos. 
+Esta sera una app web en donde los farmaceuticos podran ingresar la proteina de interes y el listado de farmacos que se tiene como opcion para inabilitarla. 
 
 
-Usaremos "Generative Adversarial Networks" (GANs) como modelo para poder predecir ciertos posibles medicamentos. Para el caso del front end, usaremos Flask.
+Usaremos "Generative Adversarial Networks" (GANs) como modelo para poder predecir los mejores farmacos que podrian seleccionar los farmacologos. Para el caso del front end, usaremos Flask.
+
+## Descubrimiento de medicamentos
+
+
 
 ### GANs
 
