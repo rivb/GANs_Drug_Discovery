@@ -7,7 +7,7 @@ Esta sera una app web en donde los farmaceuticos podran ingresar las caracterist
 
 Usaremos "Generative Adversarial Networks" (GANs) como modelo para poder predecir ciertos posibles medicamentos. Para el caso del front end, usaremos Flask.
 
-## GANs
+### GANs
 
 Descubiertas el año 2014 por Ian Goodfellow, estas redes neuronales se han convertido en la mejor opcion para generar informacion gracias a su versatilidad y excelente rendimiento.
 
