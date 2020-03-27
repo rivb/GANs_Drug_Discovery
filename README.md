@@ -1,2 +1,2 @@
-# GANs_Drug_Discovery
+## GANs_Drug_Discovery
 Exploring how to use GANs for drug discovery.
