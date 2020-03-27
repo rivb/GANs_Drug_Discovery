@@ -8,7 +8,7 @@ Esta sera una app web en donde los farmaceuticos podran ingresar la proteina de 
 
 Usaremos "Generative Adversarial Networks" (GANs) como modelo para poder predecir los mejores farmacos que podrian seleccionar los farmacologos. Para el caso del front end, usaremos Flask.
 
-## Descubrimiento de medicamentos
+### Descubrimiento de medicamentos
 
 
 
